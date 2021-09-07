@@ -32,6 +32,8 @@ from email import encoders
 import os.path
 import mapi
 
+
+##testing
 import logging
 logging.basicConfig(filename='logs\Gtrend.log', filemode='w', level=logging.DEBUG)
 logging.info('Job started')
